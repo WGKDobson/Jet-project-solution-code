@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  FinalProject.cpp
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\finalproject.cpp(14): warning C4305: 'argument': truncation from 'double' to 'float'
+  Jet.cpp
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(26): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(133): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(134): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(152): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(153): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(154): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(178): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\jet.cpp(228): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Munition.cpp
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\munition.cpp(20): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\munition.cpp(37): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\munition.cpp(44): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ktemp2\documents\ai_summer2018\vgp126\assignments\finalproject\finalproject\munition.cpp(51): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  FinalProject.vcxproj -> C:\Users\ktemp2\Documents\AI_Summer2018\VGP126\Assignments\FinalProject\Debug\FinalProject.exe
